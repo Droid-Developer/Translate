@@ -46,3 +46,6 @@ Droid-Translator/
 # 👨‍💻 Автор
 
 Droid-Developer
+
+# 🔗 Ссылка на сайт
+https://droid-developer.github.io/Translate/
